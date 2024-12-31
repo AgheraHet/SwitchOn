@@ -1,4 +1,4 @@
-# SwitchOn.IO Internship Assignment
+# Python Project
 
 Here I have developed a small python code which will read the data from the database which is having unit ID and status(Good or Bad) and then it will show the whole data with image realted to that unit ID and the status.
 
